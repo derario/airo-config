@@ -3,5 +3,5 @@
   "ai_enabled": true,
   "coach_enabled": true,
   "killswitch_message": null,
-  "min_app_version": "3.0.0"
+  "min_app_version": "1.0.0"
 }
