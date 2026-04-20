@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "ai_enabled": true,
+  "coach_enabled": true,
+  "killswitch_message": null,
+  "min_app_version": "3.0.0"
+}
